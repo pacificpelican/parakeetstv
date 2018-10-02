@@ -16,7 +16,8 @@ class Parakeets extends Component {
             A Web Site About The McKeown Flock
         </p>
         </div>
-        <Birdvideo videourl="http://links.danieljmckeown.com/library/images/BigParrotMilletPart2Dec2011byDanielJMcKeown.mov" />
+        <Birdvideo videourl="http://djmcloud.danieljmckeown.com/wp-content/uploads/2011/12/BigParrotMilletPart1ByDanielJMcKeown2011Dec06.mov" />
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         <Birdcontent />
       </div>
     );
