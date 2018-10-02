@@ -1,0 +1,13 @@
+h1.App-title {
+  margin-left: calc(5px + 7rem);
+  font-size: 2rem;
+}
+
+p.App-intro {
+  margin-left: calc(5px + 10rem);
+  font-size: 1rem;
+}
+
+div.Parakeets header, div.Parakeets p {
+  display: inline-block;
+}
