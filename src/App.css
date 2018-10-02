@@ -11,3 +11,9 @@ p.App-intro {
 div.Parakeets header, div.Parakeets p {
   display: inline-block;
 }
+
+div#flockContainer section {
+  display: inline-block;
+  width: 19vw;
+  padding-left: 4px;
+}

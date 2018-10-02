@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import './App.css';
 import Birdvideo from "./Birdvideo";
+import Birdcontent from "./Birdcontent";
 
 class Parakeets extends Component {
   render() {
@@ -16,6 +17,7 @@ class Parakeets extends Component {
         </p>
         </div>
         <Birdvideo videourl="http://links.danieljmckeown.com/library/images/BigParrotMilletPart2Dec2011byDanielJMcKeown.mov" />
+        <Birdcontent />
       </div>
     );
   }
