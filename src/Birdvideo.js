@@ -4,7 +4,7 @@ class Birdvideo extends Component {
   render(props) {
     return (
       <div id="videoContainer">
-        <div className="video"><video autoplay="true" className="birdVideo" src={this.props.videourl} /></div>
+        <div className="video"><video controls="true" muted="true" loop="false" autoplay="true" className="birdVideo" src={this.props.videourl} /></div>
       </div>
     );
   }

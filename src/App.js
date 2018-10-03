@@ -8,7 +8,9 @@ class App extends Component {
         <Parakeets />
  
         <p className="none">
-          To get started, edit <code>src/App.js</code> and save to reload.
+        <code>
+          A site from <a href="http://danmckeown.info">Dan McKeown</a>
+          </code>
         </p>
       </div>
     );

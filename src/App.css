@@ -16,22 +16,23 @@ div#flockContainer section {
   display: inline-block;
   width: 31vw;
   padding-left: 4px;
-  margin-left: calc(2px + 0.2rem);
-  margin-top: calc(1px + 0.1rem);
+  margin-left: calc(2px + 1.2rem);
+  margin-top: calc(1px + 0.4rem);
+  margin-bottom: calc(1px + 1rem);
 }
 
-section#striker img {
+div#flockContainer section img {
  width: 30vw;
 }
 
-section#striker a, section#striker a:visited {
-  color: blue;
+div#flockContainer section a, div#flockContainer section a:visited {
+  color: rgb(3, 3, 26);
 }
 
-section#striker a:hover {
+div#flockContainer section a:hover {
   color: rgb(206, 206, 219);
 }
 
 data-img-caption {
-  color: yellow;
+  color: rgb(170, 170, 135);
 }
