@@ -12,6 +12,13 @@ div.Parakeets header, div.Parakeets p {
   display: inline-block;
 }
 
+div.Parakeets header {
+  margin-right: calc(30px + 2.3rem);
+}
+div.Parakeets p {
+  margin-left: calc(3px + 1.3rem);
+}
+
 div#flockContainer section {
   display: inline-block;
   width: 31vw;
