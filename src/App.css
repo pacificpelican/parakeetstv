@@ -43,3 +43,23 @@ div#flockContainer section a:hover {
 data-img-caption {
   color: rgb(170, 170, 135);
 }
+
+h1.App-title a, h1.App-title a:visited {
+  color: rgb(19, 17, 17);
+}
+
+h1.App-title a:hover {
+  color: rgb(218, 184, 152);
+}
+
+p.App-link a {
+  color: rgb(63, 113, 129);
+}
+
+p.App-link a:hover {
+  color: rgb(3, 4, 5);
+}
+
+p.App-link a:visited {
+  color: rgb(57, 89, 100);
+}

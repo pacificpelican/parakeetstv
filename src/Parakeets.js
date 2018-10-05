@@ -12,7 +12,7 @@ class Parakeets extends Component {
       <div id="keetsContainer">
         <div className="Parakeets">
           <header className="App-header">
-            <h1 className="App-title palatino-text">ParakeetsTV</h1>
+            <h1 className="App-title palatino-text"><a href="http://parakeetstv.com">ParakeetsTV</a></h1>
           </header>
           <p className="App-intro lucida-text">
             A Web Site About The McKeown Flock
