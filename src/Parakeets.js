@@ -12,18 +12,18 @@ class Parakeets extends Component {
       <div id="keetsContainer">
         <div className="Parakeets">
           <header className="App-header">
-            <h1 className="App-title">ParakeetsTV</h1>
+            <h1 className="App-title palatino-text">ParakeetsTV</h1>
           </header>
-          <p className="App-intro">
+          <p className="App-intro lucida-text">
             A Web Site About The McKeown Flock
           </p>
-          {/* <p className="App-link">
+          {/* <p className="App-link lucida-text">
             <a href="/latest"></a>
           </p> */}
-          <p className="App-link">
+          <p className="App-link lucida-text">
             <a href="https://www.youtube.com/watch?v=tvVrjK9sRb4&list=PLe0qZrpx7auKbXhF5xE99b980PFbVv2Q8">YouTube</a>
           </p>
-          <p className="App-link">
+          <p className="App-link lucida-text">
             <a href="http://blogs.sf3am.com/parakeets">Blog</a>
           </p>
         </div>
