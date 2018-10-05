@@ -10,21 +10,21 @@ class Birdcontent extends Component {
     return (
       <div id="flockContainer">
         <section id="striker" className="box-shadow-fat kiwi">
-          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/projects/river/statuses/2009/2369/">Striker</a></h2>
+          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/archives/striker/">Striker</a></h2>
           <Birdimage imageurl="http://pics.sf3am.com/var/resizes/parakeets/Striker--close-up-2010-by-DanielJMcKeown.jpg" />
           <data-img-caption>Striker (profile)</data-img-caption>
           <p className="tahoma-text banana-text-shadow">A "wild-type" bird who closely resembled his outdoor cousins in Australia in coloring and temperment, Striker was a big, fun, playful, friendly bird.  First bird in the flock along with Belle.
           </p>
         </section>
         <section id="ava" className="box-shadow-fat pistachio">
-          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/projects/river/statuses/2009/2379/">Ava</a></h2>
+          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/archives/ava/">Ava</a></h2>
           <Birdimage imageurl={AvaImg} />
           <data-img-caption>Ava on the cage roof</data-img-caption>
           <p className="tahoma-text wheat-text-shadow">An army-green little bird, Ava brought a very sweet energy and was an amazing flyer, earning the title "Ava the Aviator." Fourth in the flock.
           </p>
         </section>
         <section id="sparta" className="box-shadow-fat banana">
-          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/projects/river/statuses/2009/2263/">Sparta</a></h2>
+          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/archives/sparty/">Sparta</a></h2>
           <Birdimage imageurl="http://pics.sf3am.com/var/resizes/Sparty-by-Jessica--April2010-byDanielJMcKeown.jpg" />
           <data-img-caption>Sparta by Jessica</data-img-caption>
           <p className="tahoma-text lime-text-shadow">A tall, assertive, yellow bird who was very cereberal and beautiful and mischevious. Third to join.
@@ -38,7 +38,7 @@ class Birdcontent extends Component {
           </p>
         </section>
         <section id="belle" className="box-shadow-fat blue-candy">
-          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/projects/river/statuses/2009/2373/">Belle</a></h2>
+          <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/archives/belle/">Belle</a></h2>
           <Birdimage imageurl="http://pics.sf3am.com/var/resizes/Belle-the-parakeet-by-JessicaMcKeown-9-10-2010.jpg" />
           <data-img-caption>Belle perching by Jessica</data-img-caption>
           <p className="tahoma-text cotton-candy-text-shadow">A legendary bird who loved humans and animals alike, Belle was a beautiful companion and a loyal friend for many years.  Co-first with Striker.
