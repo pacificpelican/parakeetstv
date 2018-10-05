@@ -4,6 +4,7 @@ import Birdimage from "./Birdimage";
 
 import AvaImg from "./Ava-3293561590_3cbda89e76.jpg";
 import DodgerImg from "./Dodger-4887734382_6a6efc744a_z.jpg";
+import BogeyImg from "./Bogey.jpg";
 
 class Birdcontent extends Component {
   render(props) {
@@ -27,14 +28,14 @@ class Birdcontent extends Component {
           <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/archives/sparty/">Sparta</a></h2>
           <Birdimage imageurl="http://pics.sf3am.com/var/resizes/Sparty-by-Jessica--April2010-byDanielJMcKeown.jpg" />
           <data-img-caption>Sparta by Jessica</data-img-caption>
-          <p className="tahoma-text lime-text-shadow">A tall, assertive, yellow bird who was very cereberal and beautiful and mischevious. Third to join.
+          <p className="tahoma-text lime-text-shadow">A tall, assertive, yellow bird who was very cereberal and beautiful and mischevious.  Credited with figuring out stairs when looking for Dodger who was downstairs.  Third to join.
           </p>
         </section>
         <section id="dodger" className="box-shadow-fat navy-blue">
           <h2 className="verdana-text"><a href="http://pacificarchives.sf3am.com/oggcast/dodger-climbs/?/oggcast/dodger-climbs/">Dodger</a></h2>
           <Birdimage imageurl={DodgerImg} />
           <data-img-caption>Dodger by Jessica</data-img-caption>
-          <p className="tahoma-text cotton-candy-text-shadow">A very chill bird, Dodger was a blue and white budgie who was a patient, diplomatic prescence in the flock.  Fifth bird to be added.
+          <p className="tahoma-text cotton-candy-text-shadow">A very chill bird, Dodger was a blue and white budgie who was a patient, diplomatic prescence in the flock with a pretty warble.  Fifth bird to be added.
           </p>
         </section>
         <section id="belle" className="box-shadow-fat blue-candy">
@@ -45,10 +46,10 @@ class Birdcontent extends Component {
           </p>
         </section>
         <section id="bogey" className="box-shadow-fat pool-water">
-          <h2 className="verdana-text"><a href="">Bogey</a></h2>
-          <Birdimage imageurl="" />
-          <data-img-caption></data-img-caption>
-          <p className="tahoma-text wheat-text-shadow">
+          <h2 className="verdana-text"><a href="https://twitter.com/bogeythemogey">Bogey</a></h2>
+          <Birdimage imageurl={BogeyImg} />
+          <data-img-caption>Bogey in her flight cage</data-img-caption>
+          <p className="tahoma-text wheat-text-shadow">A very affectionate bird, Bogey was the sixth bird to join and sings unique songs when she is excited.
           </p>
         </section>
       </div>
