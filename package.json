@@ -1,11 +1,12 @@
 {
   "name": "parakeetstv",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "react-helmet": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
